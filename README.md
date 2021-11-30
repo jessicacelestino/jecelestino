@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on Personal and university projects
 
-- 🌱 I’m currently learning Java.
+- 🌱 I’m currently learning Kafka
 
 - 👯 I’m looking to collaborate on University projects 
 

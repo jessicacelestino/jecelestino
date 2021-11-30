@@ -5,11 +5,9 @@
 
 <h2> About Me 💥
 
-- 🔭 I’m currently working on Personal and university projects
 
 - 🌱 I’m currently learning Kafka
 
-- 👯 I’m looking to collaborate on University projects 
 
 - 💬 Talk to me about Java, Python, Unity, Games and travels 🚀🌴 
 
